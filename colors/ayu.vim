@@ -23,7 +23,7 @@ let s:palette.operator  = {'dark': "#E7C547",  'light': "#E7C547",  'mirage': "#
 let s:palette.tag       = {'dark': "#d45f31",  'light': "#36A3D9",  'mirage': "#d45f31"}
 let s:palette.regexp    = {'dark': "#95E6CB",  'light': "#4CBF99",  'mirage': "#95E6CB"}
 let s:palette.string    = {'dark': "#4de9a6",  'light': "#86B300",  'mirage': "#4de9a6"}
-let s:palette.function  = {'dark': "#FFB454",  'light': "#F29718",  'mirage': "#FFD57F"}
+let s:palette.function  = {'dark': "#16a2b4",  'light': "#F29718",  'mirage': "#FFD57F"}
 let s:palette.special   = {'dark': "#E6B673",  'light': "#E6B673",  'mirage': "#FFC44C"}
 let s:palette.keyword   = {'dark': "#d27295",  'light': "#FF7733",  'mirage': "#FFAE57"}
 
