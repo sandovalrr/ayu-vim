@@ -32,7 +32,7 @@ let s:palette.accent    = {'dark': "#F29718",  'light': "#FF6A00",  'mirage': "#
 let s:palette.panel     = {'dark': "#005f5f",  'light': "#FFFFFF",  'mirage': "#272D38"}
 let s:palette.guide     = {'dark': "#2D3640",  'light': "#D9D8D7",  'mirage': "#3D4751"}
 let s:palette.line      = {'dark': "#151A1E",  'light': "#F3F3F3",  'mirage': "#242B38"}
-let s:palette.selection = {'dark': "#434c5ecc",  'light': "#F0EEE4",  'mirage': "#434c5ecc"}
+let s:palette.selection = {'dark': "#434c5e",  'light': "#F0EEE4",  'mirage': "#434c5e"}
 let s:palette.fg        = {'dark': "#E6E1CF",  'light': "#5C6773",  'mirage': "#D9D7CE"}
 let s:palette.fg_idle   = {'dark': "#3E4B59",  'light': "#828C99",  'mirage': "#607080"}
 
